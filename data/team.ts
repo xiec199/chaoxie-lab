@@ -21,7 +21,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=4q3pussAAAAJ&hl=zh-CN",
     researchArea: "Computational Neuroscience",
-    avatar: "/images/tianye-jia.jpg",
+    avatar: "./images/tianye-jia.jpg",
   },
   {
     id: "jianfeng-feng",
@@ -33,7 +33,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=0MtAVz4AAAAJ&hl=zh-CN",
     researchArea: "Computational Neuroscience & AI",
-    avatar: "/images/jianfeng-feng.jpg",
+    avatar: "./images/jianfeng-feng.jpg",
   },
   {
     id: "lu-mi",
@@ -45,7 +45,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=vokCG-MAAAAJ&hl=zh-CN&oi=ao",
     researchArea: "Artificial Intelligence",
-    avatar: "/images/lu-mi.jpg",
+    avatar: "./images/lu-mi.jpg",
   },
   {
     id: "shitong-xiang",
@@ -57,7 +57,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=MHZH5K4AAAAJ&hl=zh-CN&oi=ao",
     researchArea: "Computational Neuroscience",
-    avatar: "/images/shitong-xiang.jpg",
+    avatar: "./images/shitong-xiang.jpg",
   },
   {
     id: "miao-liu",
@@ -69,7 +69,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=Ud7boIwAAAAJ&hl=en",
     researchArea: "Artificial Intelligence",
-    avatar: "/images/miao-liu.jpg",
+    avatar: "./images/miao-liu.jpg",
   },
   {
     id: "shaozheng-qin",
@@ -81,7 +81,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=LHjM-YYAAAAJ&hl=en",
     researchArea: "Psychology",
-    avatar: "/images/shaozheng-qin.jpg",
+    avatar: "./images/shaozheng-qin.jpg",
   },
   {
     id: "trevor-robbins",
@@ -92,7 +92,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=7vl9HdwAAAAJ&hl=zh-CN",
     researchArea: "Cognitive Neuroscience & Psychopharmacology",
-    avatar: "/images/trevor-robbins.jpg",
+    avatar: "./images/trevor-robbins.jpg",
   },
   {
     id: "barbara-sahakian",
@@ -103,7 +103,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=gOAdhEoAAAAJ&hl=zh-CN",
     researchArea: "Neuropsychology & Psychiatric Neuroscience",
-    avatar: "/images/barbara-sahakian.jpg",
+    avatar: "./images/barbara-sahakian.jpg",
   },
   {
     id: "gunter-schumann",
@@ -114,7 +114,7 @@ export const team: TeamMember[] = [
     scholarUrl:
       "https://scholar.google.com/citations?user=e8q7A28AAAAJ&hl=zh-CN",
     researchArea: "Translational Psychiatry",
-    avatar: "/images/gunter-schumann.jpg",
+    avatar: "./images/gunter-schumann.jpg",
   },
   {
     id: "yiming-wei",

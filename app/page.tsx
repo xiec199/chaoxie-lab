@@ -23,7 +23,7 @@ export default function HomePage() {
           <div className="shrink-0">
             <div className="w-36 h-36 md:w-44 md:h-44 rounded-2xl overflow-hidden bg-[#e2e8f0] shadow-lg">
               <Image
-                src="/avatar.jpg"
+                src="./avatar.jpg"
                 alt="Chao Xie"
                 width={176}
                 height={176}
